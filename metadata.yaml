@@ -1,0 +1,46 @@
+_repo: The-Mermaid-Series.-Edited-by-H.-Ellis.-The-best-plays-of-the-old-dramatists.-Thomas-Dekker.-__45357
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45357-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dekker, Thomas
+    aliases:
+    - Dickers, Thomas
+    - Decker, Thomas
+    - Deckar, Thomas
+    deathdate: 1632
+    gutenberg_agent_id: '6911'
+    url: http://www.gutenberg.org/2009/agents/6911
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Dekker
+  editor:
+    agent_name: Rhys, Ernest
+    birthdate: 1859
+    deathdate: 1946
+    gutenberg_agent_id: '6540'
+    url: http://www.gutenberg.org/2009/agents/6540
+    wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
+description: ''
+gutenberg_issued: '2014-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: The Mermaid series.
+subjects:
+- !lcsh 'Witches -- Drama'
+- !lcc 'PR'
+- !lcsh 'Love -- Drama'
+- !lcsh 'Great Britain -- Social conditions -- 17th century -- Drama'
+- !lcsh 'Fortune -- Drama'
+- !lcsh 'Dekker, Thomas, approximately 1572-1632'
+- !lcsh 'Prostitutes -- Drama'
+tableOfContents: Thomas Dekker -- The shoemaker's holiday -- The honest whore, pts.
+  I-II -- Old Fortunatus -- The witch of Edmonton.
+title: "Thomas Dekker\r\nEdited, with an introduction and notes by Ernest Rhys. Unexpurgated\
+  \ Edition"
+url: http://www.gutenberg.org/ebooks/45357
