@@ -22,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6540
     wikipedia: http://en.wikipedia.org/wiki/Ernest_Rhys
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45357#The-Mermaid-Series.-Edited-by-H.-Ellis.-The-best-plays-of-the-old-dramatists.-Thomas-Dekker.-_
 gutenberg_issued: '2014-04-10'
 gutenberg_type: Text
 identifiers:
